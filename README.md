@@ -3,7 +3,7 @@
 Website Template for Project 3
 
 ### Links
-Github Link: https://rushilsavalia01.github.io/personal-website/
+Github Link: https://rushilsavalia01.github.io/personal-website/ <br>
 TerpConnect Link: https://terpconnect.umd.edu/~rsavalia/personal-website/
 
 ### Style changes
